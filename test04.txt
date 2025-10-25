@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello from test04
+=======
+>>>>>>> feature/login
 changed by feature/login branch
